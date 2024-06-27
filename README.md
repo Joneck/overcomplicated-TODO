@@ -18,8 +18,10 @@ Setup
 
         Create settings.conf with your SQL Server credentials:
 
+        your_server
         your_username
         your_password
+        your_database
 
 Running the Application
 
